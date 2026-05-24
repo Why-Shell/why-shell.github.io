@@ -7,38 +7,38 @@ order: 4
 
 # `$ whoami`
 
-**WhyShell** est une chaîne YouTube et un blog dédiés aux writeups CTF — 
-HackTheBox, TryHackMe, Root-Me et CVE récentes.
+**WhyShell** is a YouTube channel and blog dedicated to CTF writeups — 
+HackTheBox, TryHackMe, Root-Me and recent CVEs.
 
-Pas juste les commandes. Le **pourquoi** derrière chaque exploit.
+Not just the commands. The **why** behind every exploit.
 
 ---
 
 # `$ cat philosophy.txt`
 
-La plupart des writeups te donnent une liste de commandes à copier-coller.
-WhyShell t'explique pourquoi ça marche — et comment s'en défendre.
+Most writeups give you a list of commands to copy-paste.
+WhyShell explains why it works — and how to defend against it.
 
-Chaque writeup contient :
-- La chaîne d'exploitation complète
-- Le raisonnement derrière chaque étape
-- Une section **Blue Team** — comment corriger les failles
+Every writeup includes:
+- The full exploitation chain
+- The reasoning behind each step
+- A **Blue Team** section — how to fix the vulnerabilities
 
 ---
 
 # `$ cat stack.txt`
 
-- **Plateforme** : HackTheBox · TryHackMe · Root-Me
+- **Platforms** : HackTheBox · TryHackMe · Root-Me
 - **OS** : Linux · Windows · Active Directory
-- **Outils** : Rustscan · ffuf · Caido · Penelope · Hashcat
+- **Tools** : Rustscan · ffuf · Caido · Penelope · Hashcat
 
 ---
 
 # `$ cat legal.txt`
 
-Tout le contenu de ce blog porte sur des environnements de lab contrôlés 
-et légaux. Les writeups HTB/THM sont publiés uniquement après retrait 
-des machines actives, conformément aux règles des plateformes.
+All content on this blog covers controlled and legal lab environments.
+HTB/THM writeups are published only after machines are retired,
+in compliance with platform rules.
 
 ---
 
