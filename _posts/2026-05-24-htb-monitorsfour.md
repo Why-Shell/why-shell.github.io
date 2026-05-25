@@ -5,7 +5,7 @@ categories: [HackTheBox, Easy]
 tags: [windows, idor, php, cacti, docker, rce, cve, hashcat, md5]
 description: "IDOR → MD5 cracking → Cacti RCE (CVE-2025-24367) → Docker API escape (CVE-2025-9074). Full walkthrough with Blue Team section."
 image:
-  path: /assets/img/writeups/monitorsfour/Cacti.png
+  path: /assets/img/writeups/monitorsfour/cover.png
 ---
 
 **Platform**: HackTheBox | **Difficulty**: Easy | **OS**: Windows (Docker Desktop / WSL2)
